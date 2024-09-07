@@ -1,0 +1,59 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+CU:wght@100..400&family=Sevillana&display=swap');
+
+
+
+
+body {
+background-color: burlywood;
+
+
+ }
+.heading {
+
+    text-align: center;
+    font-family: "Playwrite CU", cursive;
+    font-size: 1rem;
+ }
+
+ .playground-heading {
+
+    color: darkgreen;
+
+  }
+
+.main {
+   border: 3px solid green;
+width: 55%;
+margin: 0 auto;
+ }
+.main div {
+height: 200px;
+width: 200px;
+border: 1px solid black;
+border-radius: 50%;
+margin: 2rem auto;
+ }
+
+#red{
+    border-color: red;
+ }
+ #green {
+border-color: green;
+
+  }
+#blue {
+border-color: blue;
+
+ }
+
+
+
+
+.footer {
+
+    font-family: "Sevillana", cursive;
+    font-size: 1rem;
+text-align: center;
+
+}
